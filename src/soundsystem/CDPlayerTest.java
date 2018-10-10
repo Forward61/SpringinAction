@@ -21,5 +21,6 @@ public class CDPlayerTest {
     @Test
     public void cdShouldNotBeNull(){
         assertNotNull(cd);
+        //testGit
     }
 }
